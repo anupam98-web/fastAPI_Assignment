@@ -43,7 +43,7 @@ I have use "geopy" to calcualte the distance between the coordinates.
 I have not used logger.
 
 
-How to run the App.
+# How to run the App.
 - Clone the repo.  
 - Create an local environment in the same folder.  
 ![alt text](image.png)    
