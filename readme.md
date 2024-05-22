@@ -41,3 +41,20 @@ helper function is written in the util.py file.
 I have use "geopy" to calcualte the distance between the coordinates.
 
 I have not used logger.
+
+
+How to run the App.
+- Clone the repo.  
+- Create an local environment in the same folder.  
+![alt text](image.png)    
+
+- Type the command to create the environment. `python -m venv env`
+- 'env' folder will be created in the directory.
+- write `env\Scripts\activate`. To activate the environment.
+- Install all the dependencies by using the following command. `pip install -r requirement.txt`
+- Then to start the app Which is present in the main file. Type `uvicorn main:app --reload`.
+- The app would be started.
+- `http://127.0.0.1:8000/docs` type this in browser and you will be able to access the serive endpoint with fastAPI docs.
+- ![alt text](image-1.png)  
+- I am using Python 3.10.7.
+
