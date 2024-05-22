@@ -44,7 +44,7 @@ I have not used logger.
 
 
 # How to run the App.
-- Clone the repo.  
+- Clone the repo.  `git clone https://github.com/anupam98-web/fastAPI_Assignment.git`
 - Create an local environment in the same folder.  
 ![alt text](image.png)    
 
